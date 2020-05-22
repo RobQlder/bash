@@ -2,6 +2,7 @@
 
 # ----------------PiHeartbeat--------------------------------------------
 # Daily Pi temp check and SMS notification to validate alerting config
+# 11am cron job
 #
 # May 2020 @RobQlder
 # -----------------------------------------------------------------------
